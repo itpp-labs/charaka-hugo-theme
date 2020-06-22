@@ -41,11 +41,6 @@ body{
     padding: 2em 2em;
 }
 
-.icon {
-    font-size: 1.2em;
-    margin: .5em .5em;
-}
-
 .button {
     &:active:not([disabled]) {
         top:1px;
